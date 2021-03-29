@@ -1,0 +1,170 @@
+﻿{
+  "Completed": {
+    "LongName": "Servicio completado.",
+    "Code": "000"
+  },
+  "PreRegistredCompleted": {
+    "LongName": "Pre registro exitoso, revisar el correo para validar la creación de la cuenta.",
+    "Code": "000"
+  },
+  "CertificateCreatedSuccesfuly": {
+    "LongName": "La creación del certificado se realizó de manera exitosa.",
+    "Code": "000"
+  },
+  "VerifyEmailComplete": {
+    "LongName": "Verificación de correo completada, ya puede iniciar sesión.",
+    "Code": "000"
+  },
+  "RegistrationCompleted": {
+    "LongName": "Se realizó el registro completo exitosamente.",
+    "Code": "000"
+  },
+  "ForgotPasswordCheck": {
+    "LongName": "Consulte su correo electrónico para obtener instrucciones para restablecer la contraseña.",
+    "Code": "000"
+  },
+  "PasswordResetSuccessful": {
+    "LongName": "Restablecimiento de contraseña exitoso, ahora puede iniciar sesión.",
+    "Code": "000"
+  },
+  "LoginSuccessful": {
+    "LongName": "Inicio de sesión exitoso.",
+    "Code": "000"
+  },
+  "Winners": {
+    "LongName": "Obtención de ganadores exitoso.",
+    "Code": "000"
+  },
+  "TokenRevokeSuccessful": {
+    "LongName": "Revocación de token exitosa.",
+    "Code": "000"
+  },
+  "TokenRefreshSuccessful": {
+    "LongName": "Actualización de token exitosa.",
+    "Code": "000"
+  },
+  "QuestionsAnswersSuccessful": {
+    "LongName": "Obtención de preguntas y respuestas exitosas.",
+    "Code": "000"
+  },
+  "CorrectUserInformation": {
+    "LongName": "Información de participante devuelta exitosamente",
+    "Code": "000"
+  },
+  "TokenCorrect": {
+    "LongName": "Token Válido",
+    "Code": "000"
+  },
+  "NotLogin": {
+    "LongName": "El usuario o contraseña son incorrectos.",
+    "Code": "001"
+  },
+  "NotAuthenticated": {
+    "LongName": "Usuario sin acceso.",
+    "Code": "002"
+  },
+  "NotUnauthorized": {
+    "LongName": "Usuario no autorizado.",
+    "Code": "003"
+  },
+  "PasswordNotConfirm": {
+    "LongName": "La contraseña de verificación no coincide.",
+    "Code": "004"
+  },
+  "UserNotAgeApropiate": {
+    "LongName": "El participante a registrarse no es mayor de edad.",
+    "Code": "005"
+  },
+  "ErrorVerifyemail": {
+    "LongName": "Error al verificar el correo electrónico.",
+    "Code": "006"
+  },
+  "AnswerRegistred": {
+    "LongName": "Servicio de registro de respuesta correcta completado.",
+    "Code": "007"
+  },
+  "ErrorRegistrationComplete": {
+    "LongName": "Error al realizar el registro completo, revise si realizó el pre-registro.",
+    "Code": "008"
+  },
+  "ErrorGeneredTokeRefresh": {
+    "LongName": "Error al generar un token de actualización verifique que el token no fue revocado.",
+    "Code": "009"
+  },
+  "ErrorResetPassword": {
+    "LongName": "Error al restablecer la contraseña por favor verifique que el correo y token sea correctos.",
+    "Code": "010"
+  },
+  "ModuleNotRegistred": {
+    "LongName": "Módulo no existe o no está registrado.",
+    "Code": "011"
+  },
+  "ErrorRevokeToken": {
+    "LongName": "Error al remover el token.",
+    "Code": "012"
+  },
+  "NotVerifyEmail": {
+    "LongName": "No puede iniciar sesión por favor confirme la creación de su cuenta en su correo",
+    "Code": "013"
+  },
+  "InvalidToken": {
+    "LongName": "Token inválido.",
+    "Code": "014"
+  },
+  "ClientNotSession": {
+    "LongName": "El participante no está autorizado, no es el mismo de la sesión",
+    "Code": "015"
+  },
+  "ClientFinallyModule": {
+    "LongName": "El participante ya finalizó este módulo y no puede volver a realizarlo, verifique el módulo que está consultando.",
+    "Code": "016"
+  },
+  "CouponAlreadyRegistered": {
+    "LongName": "Se generó un error al registrar su respuesta el cupón generado ya se encuentra registrado vuelva a guardar su respuesta",
+    "Code": "017"
+  },
+  "InvalidEmail": {
+    "LongName": "El correo que intentó registrar no es válido.",
+    "Code": "018"
+  },
+  "ErrorGetWinners": {
+    "LongName": "Error al generar los ganadores.",
+    "Code": "019"
+  },
+  "AlreadyRegisteredCiAndEmail": {
+    "LongName": "Ya existe un usuario registrado con el Correo Electrónico y N° de Documento de Identificación proporcionados.",
+    "Code": "020"
+  },
+  "ParticipantDoesNotExist": {
+    "LongName": "El correo electrónico proporcionado no se encuentra registrado.",
+    "Code": "021"
+  },
+  "NotFinishAllTheModules": {
+    "LongName": "El participante no terminó todos los módulos.",
+    "Code": "022"
+  },
+  "AlreadyRegisteredCi": {
+    "LongName": "Ya existe un usuario registrado con el N° de Documento de Identificación proporcionado.",
+    "Code": "023"
+  },
+  "AccountNotValidated": {
+    "LongName": "La cuenta con la que desea iniciar sesión aun no se encuentra validada por favor verifique su correo o vuelva a intentar crearla.",
+    "Code": "024"
+  },
+  "AlreadyRegisteredEmail": {
+    "LongName": "Ya existe un usuario registrado y validado con el Correo Electrónico proporcionado.",
+    "Code": "025"
+  },
+  "Exception": {
+    "LongName": "Excepción",
+    "Code": "099"
+  },
+  "Sql": {
+    "LongName": "Ha ocurrido un error y puede que el servicio no esté disponible temporalmente",
+    "Code": "097"
+  },
+  "Error": {
+    "LongName": "Error General",
+    "Code": "099"
+  }
+}
